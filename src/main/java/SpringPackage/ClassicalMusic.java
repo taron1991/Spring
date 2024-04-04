@@ -26,7 +26,7 @@ public class ClassicalMusic implements Music {
    public List<String> getRandomSong() {
         List<String> classicalMusicList = new ArrayList<>();
         {
-            classicalMusicList.add("classic1");
+            classicalMusicList.add("classic11");
             classicalMusicList.add("classic2");
             classicalMusicList.add("classic3");
 
